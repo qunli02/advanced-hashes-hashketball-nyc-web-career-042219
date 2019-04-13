@@ -133,9 +133,15 @@ def team_names
 end
 
 def player_numbers(name)
-  if game_hash[:home][:players].keys.include?(name)
-    game_hash[:home][:players][name][:number]
-  else
-    game_hash[:away][:players][name][:number]
-  end
+  game_hash.map do 
+    
 end
+
+
+
+
+
+
+
+
+
