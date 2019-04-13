@@ -120,8 +120,8 @@ def shoe_size(name)
   end
 end
 
-def team_colors(name)
-  if game_hash[:home][:players].keys.include?(name)
+def team_colors(team)
+  if game_hash[:home][:team_name].include?(team)
     game_hash[:home][:players][name][:shoe]
   else
     game_hash[:away][:players][name][:shoe]
