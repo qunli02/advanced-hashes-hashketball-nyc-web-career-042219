@@ -153,9 +153,13 @@ def player_stats(name)
 end
 
 def big_shoe_rebounds
-  game_hash[:home][:players].map do |name, info|
-    [info[:shoe], info[:rebounds]]  
-  end
+  a = game_hash[:home][:players].map do |name, info|
+        [info[:shoe], info[:rebounds]]  
+      end
+  b = game_hash[:away][:players].map do |name, info|
+        [info[:shoe], info[:rebounds]]  
+      end
+  
 end
 
 
