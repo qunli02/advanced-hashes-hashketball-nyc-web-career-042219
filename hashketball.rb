@@ -3,7 +3,10 @@ def game_hash
   { home:
       { team_name: " "
         color: []
-        player: { "player" => 
+        player: { "player" => { number:
+                                
+                              }
+        
                   
                 }
       }
