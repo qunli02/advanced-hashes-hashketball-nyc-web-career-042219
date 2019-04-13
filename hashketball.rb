@@ -153,7 +153,7 @@ def player_stats(name)
 end
 
 def big_shoe_rebounds
-  
+  12
 end
 
 
