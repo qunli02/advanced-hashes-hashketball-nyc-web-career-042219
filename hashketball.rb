@@ -12,14 +12,14 @@ def game_hash
                                 blocks:1
                                 slam_dunks:1
                               }
-                  "player" => { number:
-                                shoe:
-                                points:
-                                rebounds:
-                                assists:
-                                steals:
-                                blocks:
-                                slam_dunks:
+                  "Reggie Evans" => { number:30
+                                shoe:14
+                                points:12
+                                rebounds:12
+                                assists:12
+                                steals:12
+                                blocks:12
+                                slam_dunks:7
                               }
                   "player" => { number:
                                 shoe:
