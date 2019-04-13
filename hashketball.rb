@@ -30,7 +30,7 @@ def game_hash
                                 blocks:1
                                 slam_dunks:15
                               }
-                  "player" => { number:
+                  "Mason Plumlee" => { number:
                                 shoe:
                                 points:
                                 rebounds:
