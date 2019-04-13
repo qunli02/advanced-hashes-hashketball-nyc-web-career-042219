@@ -62,10 +62,10 @@ def game_hash
                                 blocks:7
                                 slam_dunks:2
                               }
-                  "Bismak Biyombo" => { number:
-                                shoe:
-                                points:
-                                rebounds:
+                  "Bismak Biyombo" => { number:0
+                                shoe:16
+                                points:12
+                                rebounds:4
                                 assists:
                                 steals:
                                 blocks:
