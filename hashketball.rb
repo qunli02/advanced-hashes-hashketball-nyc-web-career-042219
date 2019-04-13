@@ -4,16 +4,31 @@ def game_hash
       { team_name: " "
         color: []
         player: { "player" => { number:
-                                
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
                               }
-        
                   
                 }
       }
     away:
       { team_name: " "
         color: []
-        player:
+        player: { "player" => { number:
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
+                              }
+                  
+                }
       }
   }
 end
