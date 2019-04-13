@@ -144,7 +144,7 @@ def player_numbers(team)
   end
 end
 
-def player_stats
+def player_stats(name)
   
 end
 
