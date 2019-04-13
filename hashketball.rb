@@ -166,6 +166,7 @@ def big_shoe_rebounds
     if x[0] > big
       big = x[0]
       rebound = x[1]
+    end
   end
   return rebound
 end
