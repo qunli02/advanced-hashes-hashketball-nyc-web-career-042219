@@ -62,6 +62,52 @@ def game_hash
                                 blocks:
                                 slam_dunks:
                               }
+                  "player" => { number:
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
+                              }
+                  "player" => { number:
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
+                              }
+                  "player" => { number:
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
+                              }
+                  "player" => { number:
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
+                              }
+                  "player" => { number:
+                                shoe:
+                                points:
+                                rebounds:
+                                assists:
+                                steals:
+                                blocks:
+                                slam_dunks:
+                              }
+                  
                   
                 }
       }
