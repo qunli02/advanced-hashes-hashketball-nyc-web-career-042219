@@ -46,7 +46,7 @@ def game_hash
                                 assists:2,
                                 steals:4,
                                 blocks:11,
-                                slam_dunks:1,
+                                slam_dunks:1
                               }
                 }
       }
@@ -60,8 +60,8 @@ def game_hash
                                 assists:1,
                                 steals:2,
                                 blocks:7,
-                                slam_dunks:2,
-                              }
+                                slam_dunks:2
+                              },
                   "Bismak Biyombo" => { number:0,
                                 shoe:16,
                                 points:12,
@@ -69,8 +69,8 @@ def game_hash
                                 assists:7,
                                 steals:7,
                                 blocks:15,
-                                slam_dunks:10,
-                              }
+                                slam_dunks:10
+                              },
                   "DeSagna Diop" => { number:2,
                                 shoe:14,
                                 points:24,
@@ -78,8 +78,8 @@ def game_hash
                                 assists:12,
                                 steals:4,
                                 blocks:5,
-                                slam_dunks:5,
-                              }
+                                slam_dunks:5
+                              },
                   "Ben Gordon" => { number:8,
                                 shoe:15,
                                 points:33,
@@ -87,8 +87,8 @@ def game_hash
                                 assists:2,
                                 steals:1,
                                 blocks:1,
-                                slam_dunks:0,
-                              }
+                                slam_dunks:0
+                              },
                   "Brendan Haywood" => { number:33,
                                 shoe:15,
                                 points:6,
@@ -96,7 +96,7 @@ def game_hash
                                 assists:12,
                                 steals:22,
                                 blocks:5,
-                                slam_dunks:12,
+                                slam_dunks:12
                               }
                   
                 }
