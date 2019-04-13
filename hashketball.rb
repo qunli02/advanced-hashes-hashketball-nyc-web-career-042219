@@ -132,9 +132,18 @@ def team_names
   [game_hash[:home][:team_name],game_hash[:away][:team_name]]
 end
 
-def player_numbers(name)
-  game_hash.map do 
-    
+def player_numbers(team)
+  if game_hash[:home][:team_name].include?(team)
+    game_hash[:home][:players].map do |name, info|
+      info.map do |stat, num|
+        if stat == number
+          num
+        end
+      end
+    end
+  else
+    game_hash[:away][:colors]
+  end
 end
 
 
