@@ -62,7 +62,7 @@ def game_hash
                                 blocks:7
                                 slam_dunks:2
                               }
-                  "player" => { number:
+                  "Bismak Biyombo" => { number:
                                 shoe:
                                 points:
                                 rebounds:
