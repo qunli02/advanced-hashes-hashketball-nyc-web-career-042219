@@ -134,7 +134,7 @@ end
 
 def player_numbers(team)
   if game_hash[:home][:team_name].include?(team)
-    game_hash[:home][:players].mapdo |name, info|
+    game_hash[:home][:players].map do |name, info|
       info.map do |stat, num|
         if stat == :number
           num
