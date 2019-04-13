@@ -122,9 +122,9 @@ end
 
 def team_colors(team)
   if game_hash[:home][:team_name].include?(team)
-    game_hash[:home][:players][name][:shoe]
+    game_hash[:home][:colors]
   else
-    game_hash[:away][:players][name][:shoe]
+    game_hash[:away][:colors]
   end
 end
 
