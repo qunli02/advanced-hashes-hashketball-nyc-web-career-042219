@@ -138,7 +138,9 @@ def player_numbers(team)
       info[:number]
     end
   else
-    game_hash[:away][:colors]
+    game_hash[:away][:players].map do |name, info|
+      info[:number]
+    end
   end
 end
 
