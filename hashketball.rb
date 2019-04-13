@@ -66,10 +66,10 @@ def game_hash
                                 shoe:16
                                 points:12
                                 rebounds:4
-                                assists:
-                                steals:
-                                blocks:
-                                slam_dunks:
+                                assists:7
+                                steals:7
+                                blocks:15
+                                slam_dunks:10
                               }
                   "player" => { number:
                                 shoe:
