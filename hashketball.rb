@@ -160,9 +160,14 @@ def big_shoe_rebounds
         [info[:shoe], info[:rebounds]]  
       end
   c = a + b
-  c.each do ||
-    
+  big = 0
+  rebound = 0
+  c.each do |x|
+    if x[0] > big
+      big = x[0]
+      rebound = x[1]
   end
+  return rebound
 end
 
 
