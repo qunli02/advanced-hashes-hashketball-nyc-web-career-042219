@@ -159,7 +159,10 @@ def big_shoe_rebounds
   b = game_hash[:away][:players].map do |name, info|
         [info[:shoe], info[:rebounds]]  
       end
-  
+  c = a + b
+  c.each do ||
+    
+  end
 end
 
 
